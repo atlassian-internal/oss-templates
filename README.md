@@ -4,7 +4,7 @@
 
 > Provide an introduction/overview of your project, and articulate the problem it solves for the broader engineering community. Potential consumers should understand **what** the project is, and **why** it exists.
 
-> Other recommended badges are a [version](https://shields.io/category/version) badge (e.g. `npm`) and a [build](https://shields.io/category/build) badge (e.g., `circleci` or `travis`). Order should be `licene - version - ci - PRs`. Please use the `flat-sqare` style.
+> Other recommended badges are a [version](https://shields.io/category/version) badge (e.g. `npm`) and a [build](https://shields.io/category/build) badge (e.g., `circleci` or `travis`). Order should be `license - version - ci - PRs`. Please use the `flat-sqare` style.
 > 
 > See e.g.
 > 
