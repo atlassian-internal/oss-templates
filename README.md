@@ -36,3 +36,5 @@ Contributions to [Project name] are welcome! Please see [CONTRIBUTING.md](CONTRI
 Copyright (c) [YYYY] - [YYYY] Atlassian and others.
 Apache 2.0 licensed, see [LICENSE](LICENSE) file.
 
+[![With ❤️ from Atlassian](https://raw.githubusercontent.com/atlassian-internal/oss-assets/master/footer.png)](https://www.atlassian.com)
+
