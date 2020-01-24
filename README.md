@@ -40,7 +40,7 @@ Apache 2.0 licensed, see [LICENSE](LICENSE) file.
 
 <br/> 
 
-> Pick one of the following
+> Pick one of the following:
 
 [![With ❤️ from Atlassian](https://raw.githubusercontent.com/atlassian-internal/oss-assets/master/banner-cheers.png)](https://www.atlassian.com)
 
